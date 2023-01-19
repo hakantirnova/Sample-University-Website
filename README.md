@@ -1,1 +1,1 @@
-# Project-1-Sample-University-Website
+# Project-1-Ege-University-Website
